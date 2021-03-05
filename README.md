@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on DevOps Things for [@greenpark](https://github.com/greenpark)
-- 💬 Ask me about my init.vim
+- 💬 Ask me about my ~init.vim~ init.lua
 <!--
 **jacobfoard/jacobfoard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
